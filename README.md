@@ -11,4 +11,4 @@ A simple app to add calendar events, with a Calendar API, which adds events to t
 ## How to run
 In the directory containing the extracted files, run `flutter run` command, with a debugging device connected.
 
-The `flutter` commands require Flutter SDK to pythonbe installed.
+The `flutter` commands require Flutter SDK to be installed.
